@@ -1,0 +1,13 @@
+C:\Users\mlsan\Desktop\Programação\Repositórios para treino\GuessingGame\GuessingGame\bin\Debug\netcoreapp3.1\Quiz.exe
+C:\Users\mlsan\Desktop\Programação\Repositórios para treino\GuessingGame\GuessingGame\bin\Debug\netcoreapp3.1\Quiz.deps.json
+C:\Users\mlsan\Desktop\Programação\Repositórios para treino\GuessingGame\GuessingGame\bin\Debug\netcoreapp3.1\Quiz.runtimeconfig.json
+C:\Users\mlsan\Desktop\Programação\Repositórios para treino\GuessingGame\GuessingGame\bin\Debug\netcoreapp3.1\Quiz.runtimeconfig.dev.json
+C:\Users\mlsan\Desktop\Programação\Repositórios para treino\GuessingGame\GuessingGame\bin\Debug\netcoreapp3.1\Quiz.dll
+C:\Users\mlsan\Desktop\Programação\Repositórios para treino\GuessingGame\GuessingGame\bin\Debug\netcoreapp3.1\Quiz.pdb
+C:\Users\mlsan\Desktop\Programação\Repositórios para treino\GuessingGame\GuessingGame\obj\Debug\netcoreapp3.1\Quiz.csprojAssemblyReference.cache
+C:\Users\mlsan\Desktop\Programação\Repositórios para treino\GuessingGame\GuessingGame\obj\Debug\netcoreapp3.1\Quiz.AssemblyInfoInputs.cache
+C:\Users\mlsan\Desktop\Programação\Repositórios para treino\GuessingGame\GuessingGame\obj\Debug\netcoreapp3.1\Quiz.AssemblyInfo.cs
+C:\Users\mlsan\Desktop\Programação\Repositórios para treino\GuessingGame\GuessingGame\obj\Debug\netcoreapp3.1\Quiz.csproj.CoreCompileInputs.cache
+C:\Users\mlsan\Desktop\Programação\Repositórios para treino\GuessingGame\GuessingGame\obj\Debug\netcoreapp3.1\Quiz.dll
+C:\Users\mlsan\Desktop\Programação\Repositórios para treino\GuessingGame\GuessingGame\obj\Debug\netcoreapp3.1\Quiz.pdb
+C:\Users\mlsan\Desktop\Programação\Repositórios para treino\GuessingGame\GuessingGame\obj\Debug\netcoreapp3.1\Quiz.genruntimeconfig.cache
